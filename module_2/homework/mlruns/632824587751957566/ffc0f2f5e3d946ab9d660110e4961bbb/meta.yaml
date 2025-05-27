@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/632824587751957566/ffc0f2f5e3d946ab9d660110e4961bbb/artifacts
+end_time: 1748305456167
+entry_point_name: ''
+experiment_id: '632824587751957566'
+lifecycle_stage: active
+run_id: ffc0f2f5e3d946ab9d660110e4961bbb
+run_name: welcoming-moose-558
+run_uuid: ffc0f2f5e3d946ab9d660110e4961bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748305430368
+status: 3
+tags: []
+user_id: asus

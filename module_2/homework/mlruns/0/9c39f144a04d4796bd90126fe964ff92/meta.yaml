@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/github/mlops_2025/module_2/homework/mlruns/0/9c39f144a04d4796bd90126fe964ff92/artifacts
+end_time: 1748301376948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c39f144a04d4796bd90126fe964ff92
+run_name: blushing-steed-968
+run_uuid: 9c39f144a04d4796bd90126fe964ff92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748301338117
+status: 3
+tags: []
+user_id: asus

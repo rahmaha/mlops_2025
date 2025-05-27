@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/56433a791d344dbdad7c35e5ac0034ec/artifacts
+end_time: 1748304495916
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 56433a791d344dbdad7c35e5ac0034ec
+run_name: righteous-flea-602
+run_uuid: 56433a791d344dbdad7c35e5ac0034ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304493783
+status: 3
+tags: []
+user_id: asus

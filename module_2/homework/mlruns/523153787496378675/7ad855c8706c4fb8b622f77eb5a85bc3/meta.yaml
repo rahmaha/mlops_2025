@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/7ad855c8706c4fb8b622f77eb5a85bc3/artifacts
+end_time: 1748304533264
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 7ad855c8706c4fb8b622f77eb5a85bc3
+run_name: chill-fish-389
+run_uuid: 7ad855c8706c4fb8b622f77eb5a85bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304526750
+status: 3
+tags: []
+user_id: asus

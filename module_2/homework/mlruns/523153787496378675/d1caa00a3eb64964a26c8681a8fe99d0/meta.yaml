@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/d1caa00a3eb64964a26c8681a8fe99d0/artifacts
+deleted_time: 1748304744409
+end_time: 1748303199172
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: d1caa00a3eb64964a26c8681a8fe99d0
+run_name: polite-goose-635
+run_uuid: d1caa00a3eb64964a26c8681a8fe99d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303177390
+status: 3
+tags: []
+user_id: asus

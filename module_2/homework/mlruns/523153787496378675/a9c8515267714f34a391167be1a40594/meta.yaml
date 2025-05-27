@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/a9c8515267714f34a391167be1a40594/artifacts
+deleted_time: 1748304744404
+end_time: 1748303220762
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: a9c8515267714f34a391167be1a40594
+run_name: sneaky-horse-245
+run_uuid: a9c8515267714f34a391167be1a40594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303199227
+status: 3
+tags: []
+user_id: asus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/54878b510c3b410f87d864734d87d4ce/artifacts
+end_time: 1748304493733
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 54878b510c3b410f87d864734d87d4ce
+run_name: kindly-calf-519
+run_uuid: 54878b510c3b410f87d864734d87d4ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304473783
+status: 3
+tags: []
+user_id: asus

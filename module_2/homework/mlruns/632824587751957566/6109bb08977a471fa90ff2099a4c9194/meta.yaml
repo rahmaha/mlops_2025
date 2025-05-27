@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/632824587751957566/6109bb08977a471fa90ff2099a4c9194/artifacts
+end_time: 1748305430169
+entry_point_name: ''
+experiment_id: '632824587751957566'
+lifecycle_stage: active
+run_id: 6109bb08977a471fa90ff2099a4c9194
+run_name: bald-calf-937
+run_uuid: 6109bb08977a471fa90ff2099a4c9194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748305401415
+status: 3
+tags: []
+user_id: asus

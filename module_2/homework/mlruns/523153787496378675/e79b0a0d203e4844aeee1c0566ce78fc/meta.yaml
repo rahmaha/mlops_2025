@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/e79b0a0d203e4844aeee1c0566ce78fc/artifacts
+end_time: 1748304535489
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: e79b0a0d203e4844aeee1c0566ce78fc
+run_name: upbeat-sloth-148
+run_uuid: e79b0a0d203e4844aeee1c0566ce78fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304533314
+status: 3
+tags: []
+user_id: asus

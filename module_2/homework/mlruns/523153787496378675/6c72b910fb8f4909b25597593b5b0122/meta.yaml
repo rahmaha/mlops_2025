@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/6c72b910fb8f4909b25597593b5b0122/artifacts
+end_time: 1748304508699
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 6c72b910fb8f4909b25597593b5b0122
+run_name: angry-shark-505
+run_uuid: 6c72b910fb8f4909b25597593b5b0122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304495973
+status: 3
+tags: []
+user_id: asus

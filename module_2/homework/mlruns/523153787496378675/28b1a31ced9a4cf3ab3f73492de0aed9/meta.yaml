@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/28b1a31ced9a4cf3ab3f73492de0aed9/artifacts
+deleted_time: 1748304744400
+end_time: 1748303223185
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: 28b1a31ced9a4cf3ab3f73492de0aed9
+run_name: fearless-dolphin-352
+run_uuid: 28b1a31ced9a4cf3ab3f73492de0aed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303220822
+status: 3
+tags: []
+user_id: asus

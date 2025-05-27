@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/0f65fa0f56614d968118b0f033c5cd6b/artifacts
+end_time: 1748304447513
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 0f65fa0f56614d968118b0f033c5cd6b
+run_name: mysterious-rook-589
+run_uuid: 0f65fa0f56614d968118b0f033c5cd6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304435713
+status: 3
+tags: []
+user_id: asus

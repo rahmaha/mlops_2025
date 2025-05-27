@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/1ba8e35b566a4248a2226f64346474a8/artifacts
+deleted_time: 1748304744418
+end_time: 1748303171174
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: 1ba8e35b566a4248a2226f64346474a8
+run_name: rebellious-frog-654
+run_uuid: 1ba8e35b566a4248a2226f64346474a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303158744
+status: 3
+tags: []
+user_id: asus

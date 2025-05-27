@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/1a073a6fd4684a33894de9fcd8ce94e0/artifacts
+deleted_time: 1748304744399
+end_time: 1748303238548
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: 1a073a6fd4684a33894de9fcd8ce94e0
+run_name: hilarious-cat-707
+run_uuid: 1a073a6fd4684a33894de9fcd8ce94e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303223231
+status: 3
+tags: []
+user_id: asus

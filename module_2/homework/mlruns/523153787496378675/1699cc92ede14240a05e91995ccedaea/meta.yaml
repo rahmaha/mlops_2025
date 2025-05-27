@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/1699cc92ede14240a05e91995ccedaea/artifacts
+deleted_time: 1748304744394
+end_time: 1748303251187
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: 1699cc92ede14240a05e91995ccedaea
+run_name: enchanting-jay-439
+run_uuid: 1699cc92ede14240a05e91995ccedaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303238608
+status: 3
+tags: []
+user_id: asus

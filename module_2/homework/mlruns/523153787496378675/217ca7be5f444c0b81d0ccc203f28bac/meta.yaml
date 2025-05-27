@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/217ca7be5f444c0b81d0ccc203f28bac/artifacts
+end_time: 1748304453448
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 217ca7be5f444c0b81d0ccc203f28bac
+run_name: incongruous-fly-3
+run_uuid: 217ca7be5f444c0b81d0ccc203f28bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304447558
+status: 3
+tags: []
+user_id: asus

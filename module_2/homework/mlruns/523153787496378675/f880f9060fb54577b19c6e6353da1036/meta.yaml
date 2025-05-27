@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/f880f9060fb54577b19c6e6353da1036/artifacts
+end_time: 1748304554389
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: f880f9060fb54577b19c6e6353da1036
+run_name: ambitious-shrike-808
+run_uuid: f880f9060fb54577b19c6e6353da1036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304542949
+status: 3
+tags: []
+user_id: asus

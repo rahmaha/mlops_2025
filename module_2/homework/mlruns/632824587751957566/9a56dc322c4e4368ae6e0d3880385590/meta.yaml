@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/632824587751957566/9a56dc322c4e4368ae6e0d3880385590/artifacts
+end_time: 1748305401174
+entry_point_name: ''
+experiment_id: '632824587751957566'
+lifecycle_stage: active
+run_id: 9a56dc322c4e4368ae6e0d3880385590
+run_name: bedecked-conch-106
+run_uuid: 9a56dc322c4e4368ae6e0d3880385590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748305362625
+status: 3
+tags: []
+user_id: asus

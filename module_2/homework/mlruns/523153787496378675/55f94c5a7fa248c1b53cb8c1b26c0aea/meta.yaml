@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/55f94c5a7fa248c1b53cb8c1b26c0aea/artifacts
+end_time: 1748304518882
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: 55f94c5a7fa248c1b53cb8c1b26c0aea
+run_name: gregarious-goat-361
+run_uuid: 55f94c5a7fa248c1b53cb8c1b26c0aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304508746
+status: 3
+tags: []
+user_id: asus

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/23105bcf6a0d45c083e745b166bf2518/artifacts
+deleted_time: 1748304744433
+end_time: 1748303156320
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: 23105bcf6a0d45c083e745b166bf2518
+run_name: victorious-slug-342
+run_uuid: 23105bcf6a0d45c083e745b166bf2518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303137980
+status: 3
+tags: []
+user_id: asus

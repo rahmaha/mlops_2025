@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/b837fca5dc3d41708d8cfa84ebe2e3de/artifacts
+deleted_time: 1748304744379
+end_time: 1748303269365
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: deleted
+run_id: b837fca5dc3d41708d8cfa84ebe2e3de
+run_name: classy-owl-173
+run_uuid: b837fca5dc3d41708d8cfa84ebe2e3de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748303266911
+status: 3
+tags: []
+user_id: asus

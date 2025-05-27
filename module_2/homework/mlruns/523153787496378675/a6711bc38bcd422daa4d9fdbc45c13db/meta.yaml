@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523153787496378675/a6711bc38bcd422daa4d9fdbc45c13db/artifacts
+end_time: 1748304554433
+entry_point_name: ''
+experiment_id: '523153787496378675'
+lifecycle_stage: active
+run_id: a6711bc38bcd422daa4d9fdbc45c13db
+run_name: random-forest-hyperopt
+run_uuid: a6711bc38bcd422daa4d9fdbc45c13db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748304415824
+status: 3
+tags: []
+user_id: asus
